@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * @author lzh
- * @description: TODO
+ * @description: 演员对象
  * @date 2025/10/29 17:25
  */
 @Data
