@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 
 /**
  * @author lzh
- * @description:  Stream流操作
+ * @description:  Stream流 案例
  * @date 2025/10/29 16:17
  */
 public class SteamDemo {
