@@ -16,5 +16,7 @@ public class NetWorkDemo {
         InetAddress ip = InetAddress.getByName("DESKTOP-KSB3R9J");
 
         System.out.println(ip);
+
+
     }
 }
